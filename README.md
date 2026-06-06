@@ -1,6 +1,6 @@
 # Privacy Policy — Pet the Dog (But Not Too Much)
 
-**Effective date:** [REPLACE WITH PUBLISH DATE]
+**Effective date:** 2026/Jun/06
 **App package:** `com.chronovision.petthedog`
 **Developer:** Chronovision
 
@@ -77,4 +77,4 @@ We'll update this page if anything changes. The "Effective date" at the top refl
 
 ## 8. Contact
 
-[REPLACE WITH YOUR PUBLIC EMAIL OR CONTACT FORM URL]
+vedran.silic@gmail.com
